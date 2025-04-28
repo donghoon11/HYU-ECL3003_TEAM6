@@ -1,0 +1,5 @@
+pyserial
+opencv-python
+pygame
+pyttsx3
+pynput
