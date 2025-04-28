@@ -1,5 +1,7 @@
 pyserial
 opencv-python
-pygame
+pygame==2.0.3
 pyttsx3
 pynput
+ipywidgets==8.1.2
+ipycanvas==0.13.2
